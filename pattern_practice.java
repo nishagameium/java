@@ -1,4 +1,4 @@
-public class patter_practice {
+public class pattern_practice {
     public static void main(String[] args) {
        // int n=5;
              
